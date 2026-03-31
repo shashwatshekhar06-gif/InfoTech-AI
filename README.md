@@ -12,7 +12,7 @@
 
 ## 📌 What is InfoFetch AI?
 
-InfoFetch AI is a full-stack AI research platform that lets users instantly research companies, job markets, salaries, and general topics using a combination of real-time web search and GPT-3.5-turbo. It features a dual-mode interface — a **deep research engine** for structured reports and an **AI chatbot** for quick conversational Q&A.
+InfoFetch AI is a full-stack AI research platform that lets users instantly research companies, job markets, salaries, and general topics using a combination of real-time web search and GPT-3.5-turbo. It features a dual-mode interface a **deep research engine** for structured reports and an **AI chatbot** for quick conversational Q&A.
 
 ---
 
